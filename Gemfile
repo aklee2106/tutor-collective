@@ -20,7 +20,7 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'bcrypt-ruby', '~> 3.0.0', :require => "bcrypt"
+gem 'bcrypt-ruby', '~> 3.1.2', :require => "bcrypt"
 gem 'bootstrap-sass', '~> 3.0.2.0'
 gem 'jquery-rails'
 gem 'wepay'
